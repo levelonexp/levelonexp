@@ -10,7 +10,9 @@ I build and repair dependable web applications, with a focus on clear debugging,
 - Security-minded website remediation
 - Test coverage and reproducible verification steps
 
-I run [Level One Solutions](https://levelonexp.com) and contribute to open-source software through issue-driven engineering work.
+I run [Level One Solutions](https://levelonexp.com), work with clients through
+[Upwork](https://www.upwork.com/freelancers/~01ffff3ce9a87014ab), and contribute
+to open-source software through issue-driven engineering work.
 
 ## How I Work
 
